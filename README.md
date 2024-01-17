@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Helping people and organizations achieve their go-to-market strategies through innovative automation and scalable product solutions.
+[Learn more about me](https://www.linkedin.com/in/scott-chaffee-ms-orl-97144912/)
 <!--
 **chaffees/chaffees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
