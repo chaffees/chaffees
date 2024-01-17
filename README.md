@@ -1,4 +1,4 @@
-Helping people and organizations achieve their go-to-market strategies through innovative automation and scalable product solutions.
+## Helping people and organizations achieve their go-to-market strategies through innovative automation and scalable product solutions.
 
 [Learn more about me](https://www.linkedin.com/in/scott-chaffee-ms-orl-97144912/)
 <!--
